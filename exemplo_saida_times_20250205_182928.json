@@ -1,0 +1,54 @@
+{
+  "time1": {
+    "jogadores": [
+      {
+        "nome": "Paulo",
+        "nivel": 5
+      },
+      {
+        "nome": "Thiago",
+        "nivel": 4
+      },
+      {
+        "nome": "Marcel",
+        "nivel": 3
+      },
+      {
+        "nome": "Waldeka",
+        "nivel": 2
+      },
+      {
+        "nome": "Brunão",
+        "nivel": 1
+      }
+    ],
+    "nivel_total": 15,
+    "total_jogadores": 5
+  },
+  "time2": {
+    "jogadores": [
+      {
+        "nome": "Thales",
+        "nivel": 5
+      },
+      {
+        "nome": "Claudinho",
+        "nivel": 4
+      },
+      {
+        "nome": "Juliano",
+        "nivel": 3
+      },
+      {
+        "nome": "Higor",
+        "nivel": 2
+      },
+      {
+        "nome": "Serginho",
+        "nivel": 1
+      }
+    ],
+    "nivel_total": 15,
+    "total_jogadores": 5
+  }
+}
